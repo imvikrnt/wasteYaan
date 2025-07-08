@@ -1,0 +1,19 @@
+# === Python (Django) ===
+*.pyc
+__pycache__/
+db.sqlite3
+/media/
+.env
+venv/
+*.log
+
+# === Node (React Frontend) ===
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# === OS / Editor Files ===
+.DS_Store
+.vscode/
+.idea/
+*.swp
